@@ -1,4 +1,6 @@
 ### Hi there 👋
+https://img.shields.io/badge/dynamic/json?color=COLOR&label=COLOR&query=$.color&url=https://path/to/your/data.json
+
 
 <!--
 **ROSEBURTON/ROSEBURTON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
