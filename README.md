@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on ... my voice-controlled Study AI.
 
-🌱 I’m currently learning ... data science and how to improve my Study AI.
+🌱 I’m currently learning ... data science and how to code for AR/VR headsets.
 
-👯 I’m looking to collaborate on ... developing iOS apps.
+👯 I’m looking to collaborate on ... developing an iOS app for VisionOS.
 
 🤔 I’m looking for help with ... natural language processing (NLP).
 
-💬 Ask me about ... creating a chatbot.
+💬 Ask me about ... creating an iOS app.
 
 📫 How to reach me: ... email: cosmonautEBE@gmail.com
 
